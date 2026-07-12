@@ -27,6 +27,7 @@ solving leetcode problem and contributing in Github.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0496-next-greater-element-i) |
@@ -34,11 +35,13 @@ solving leetcode problem and contributing in Github.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
