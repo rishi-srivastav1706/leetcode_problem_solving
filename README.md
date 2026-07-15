@@ -7,6 +7,7 @@ solving leetcode problem and contributing in Github.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0067-add-binary) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -107,4 +108,8 @@ solving leetcode problem and contributing in Github.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0023-merge-k-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
