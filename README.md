@@ -8,6 +8,7 @@ solving leetcode problem and contributing in Github.
 | ------- |
 | [0067-add-binary](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0067-add-binary) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ solving leetcode problem and contributing in Github.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0067-add-binary) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +43,7 @@ solving leetcode problem and contributing in Github.
 | [0217-contains-duplicate](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0347-top-k-frequent-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +51,7 @@ solving leetcode problem and contributing in Github.
 | [0217-contains-duplicate](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0496-next-greater-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -115,8 +119,13 @@ solving leetcode problem and contributing in Github.
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0104-maximum-depth-of-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
