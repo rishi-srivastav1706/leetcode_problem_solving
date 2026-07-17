@@ -75,16 +75,19 @@ solving leetcode problem and contributing in Github.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -124,6 +127,7 @@ solving leetcode problem and contributing in Github.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0226-invert-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
