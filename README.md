@@ -19,6 +19,7 @@ solving leetcode problem and contributing in Github.
 | [0067-add-binary](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0290-word-pattern) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,10 +62,12 @@ solving leetcode problem and contributing in Github.
 | [0094-binary-tree-inorder-traversal](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
 | ------- |
@@ -142,4 +145,8 @@ solving leetcode problem and contributing in Github.
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
