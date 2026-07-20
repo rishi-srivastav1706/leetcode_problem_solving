@@ -30,6 +30,7 @@ solving leetcode problem and contributing in Github.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ solving leetcode problem and contributing in Github.
 | [0268-missing-number](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0496-next-greater-element-i) |
+| [1260-shift-2d-grid](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -158,4 +160,8 @@ solving leetcode problem and contributing in Github.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
