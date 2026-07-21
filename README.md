@@ -135,6 +135,7 @@ solving leetcode problem and contributing in Github.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -173,4 +174,8 @@ solving leetcode problem and contributing in Github.
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3499-maximize-active-section-with-trade-i) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
