@@ -21,6 +21,7 @@ solving leetcode problem and contributing in Github.
 | [0242-valid-anagram](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0290-word-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -168,4 +169,8 @@ solving leetcode problem and contributing in Github.
 | ------- |
 | [0733-flood-fill](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
