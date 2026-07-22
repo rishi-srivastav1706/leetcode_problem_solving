@@ -20,6 +20,7 @@ solving leetcode problem and contributing in Github.
 | [0067-add-binary](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0290-word-pattern) |
+| [0647-palindromic-substrings](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0647-palindromic-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Bit Manipulation
@@ -156,6 +157,7 @@ solving leetcode problem and contributing in Github.
 ## Two Pointers
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0647-palindromic-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -178,4 +180,8 @@ solving leetcode problem and contributing in Github.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0206-reverse-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
