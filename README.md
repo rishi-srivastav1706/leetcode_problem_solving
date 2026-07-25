@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0043-multiply-strings) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
