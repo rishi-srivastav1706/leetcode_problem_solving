@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0031-next-permutation) |
+| [0234-palindrome-linked-list](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -27,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0007-reverse-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3536-maximum-product-of-two-digits) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
