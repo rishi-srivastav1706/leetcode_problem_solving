@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0031-next-permutation) |
+| [0643-maximum-average-subarray-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0043-multiply-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
