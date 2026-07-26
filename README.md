@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0031-next-permutation) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
@@ -24,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0018-4sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0043-multiply-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
