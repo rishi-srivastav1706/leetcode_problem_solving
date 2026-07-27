@@ -69,4 +69,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
