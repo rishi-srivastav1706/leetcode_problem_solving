@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3536-maximum-product-of-two-digits) |
@@ -59,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
