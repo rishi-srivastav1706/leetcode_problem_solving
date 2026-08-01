@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0219-contains-duplicate-ii) |
+| [0486-predict-the-winner](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0643-maximum-average-subarray-i) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -119,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
