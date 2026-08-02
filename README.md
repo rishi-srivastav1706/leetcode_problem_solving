@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0643-maximum-average-subarray-i) |
+| [0877-stone-game](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Two Pointers
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0877-stone-game) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3536-maximum-product-of-two-digits) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -127,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
