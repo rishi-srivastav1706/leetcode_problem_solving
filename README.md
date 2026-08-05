@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3731-find-missing-elements](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3731-find-missing-elements) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0100-same-tree) |
+| [0994-rotting-oranges](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0877-stone-game) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
