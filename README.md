@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0234-palindrome-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0234-palindrome-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/2000-reverse-prefix-of-word) |
 ## Recursion
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0412-fizz-buzz) |
+| [2000-reverse-prefix-of-word](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/2000-reverse-prefix-of-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3794-reverse-string-prefix](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3794-reverse-string-prefix) |
