@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0234-palindrome-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0905-sort-array-by-parity) |
 | [2000-reverse-prefix-of-word](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3794-reverse-string-prefix) |
 ## Sorting
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2418-sort-the-people](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/2418-sort-the-people) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
