@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2418-sort-the-people](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2418-sort-the-people](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/2418-sort-the-people) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3731-find-missing-elements) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0219-contains-duplicate-ii) |
+| [2418-sort-the-people](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/2418-sort-the-people) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3731-find-missing-elements) |
 ## String
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0412-fizz-buzz) |
 | [2000-reverse-prefix-of-word](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/2000-reverse-prefix-of-word) |
+| [2418-sort-the-people](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/2418-sort-the-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3794-reverse-string-prefix](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3794-reverse-string-prefix) |
