@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0643-maximum-average-subarray-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0905-sort-array-by-parity) |
 | [2000-reverse-prefix-of-word](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/3794-reverse-string-prefix) |
