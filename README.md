@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2418-sort-the-people](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/2418-sort-the-people) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Dynamic Programming
 |  |
