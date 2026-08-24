@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0486-predict-the-winner) |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rishi-srivastav1706/leetcode_problem_solving/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
